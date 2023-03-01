@@ -261,8 +261,11 @@ margin-left: 0%;
     margin-left: 45%;
     color: white;
   }
-.subhead-9{
+.sub{
     display: flex;
+    font-size: 20px;
+    color: white;
+    height: 200px;
 }  
 .mySlides {display:none;}
 
